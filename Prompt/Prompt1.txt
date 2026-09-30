@@ -1,0 +1,7 @@
+create perfect php curd example:
+Add, edit, view, delete
+use bootstrap
+bootstrap-table(filter, search,filter,inline edit,pagination, bulk action with checkbox)
+
+Show some various type of field(date range, number, text etc.) with proper validation.
+also create sample mysql file.
