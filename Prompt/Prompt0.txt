@@ -1,0 +1,3 @@
+I want to generate a CURD code generator like phpmaker, scriptcase.com and PHP mySQL mestro generator
+
+So suggest me ui/ux and framework
